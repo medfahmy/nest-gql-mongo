@@ -1,12 +1,12 @@
 ## nestjs server with graphql and mongodb
 
-### install dependencies
+#### install dependencies
 
 ```
 yarn
 ```
 
-### run
+#### run
 
 ```
 # development
