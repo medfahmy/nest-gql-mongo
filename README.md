@@ -2,11 +2,13 @@
 
 ## install dependencies
 
-yarn
+```yarn
+
+```
 
 ## run
 
-# development
+````# development
 
 yarn start
 
@@ -16,4 +18,5 @@ yarn start:dev
 
 # production mode
 
-yarn start:prod
+yarn start:prod```
+````
