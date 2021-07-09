@@ -4,12 +4,11 @@
 
 ```
 yarn
-
 ```
 
 ## run
 
-````
+```
 # development
 
 yarn start
@@ -22,4 +21,3 @@ yarn start:dev
 
 yarn start:prod
 ```
-````
